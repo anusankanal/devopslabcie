@@ -10,4 +10,4 @@ def test_student_details():
     "student div:E\n"
     "student age:20\n"
     )
-    assert vehicle_details(name, usn, div,age) == expected_output
+    assert student_details(name, usn, div,age) == expected_output
