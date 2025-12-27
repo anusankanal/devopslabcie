@@ -1,4 +1,4 @@
-from student import vehicle_details
+from student import student_details
 def test_student_details():
     name="Anusha"
     usn="0E318"
